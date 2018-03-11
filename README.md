@@ -65,4 +65,6 @@ The service should now be up and running and should be possible to access from t
 Todo
 ----
  * Should composer really be installed? Maybe it should depend on a production/development flag?
- * We should import all Lumen files and common PHP files as well
+ * Update Lumen to the latest version
+ * Make sure all common PHP files are imported and the latest version
+ * Make a working module of this (Add a route and an Hello world-controller)
