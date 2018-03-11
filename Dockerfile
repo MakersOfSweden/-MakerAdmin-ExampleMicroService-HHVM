@@ -1,4 +1,4 @@
-FROM hhvm/hhvm:latest
+FROM hhvm/hhvm:3.24-lts-latest
 
 # Download and install composer
 RUN    apt-get update \
